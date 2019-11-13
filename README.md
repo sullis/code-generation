@@ -7,6 +7,7 @@
 - [Making Java More Dynamic](https://www.youtube.com/watch?v=Gjtrl66J26g) - Rafael Winterhalter (ByteBuddy) at W-JAX April 2019
 - [Understanding Dagger 2's Codegen implementation](https://www.youtube.com/watch?v=-UWWFBEhW3Q) - Gregory Kick at Devoxx 2017
 - [Generating Kotlin Code](https://www.youtube.com/watch?v=_obNBSldffw) - Alec Strong and Jake Wharton at KotlinConf 2017
+- [Code generation with Scalameta](https://www.youtube.com/watch?v=ONlBglP8H3Y) - Devon Stewart at ScalaMatsuri 2017
 
 # REST API code generation
 - [ApiBuilder](https://www.apibuilder.io/)
