@@ -15,7 +15,8 @@
 
 # REST API code generation
 - [ApiBuilder](https://www.apibuilder.io/)
-- [guardrail](https://guardrail.dev/)
+- [guardrail](https://guardrail.dev/) - Twilio
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-- [autorest](https://github.com/Azure/autorest)
-- [gnostic](https://github.com/googleapis/gnostic)
+- [autorest](https://github.com/Azure/autorest) - Microsoft
+- [gnostic](https://github.com/googleapis/gnostic) - Google
+- [gapic-generator](https://github.com/googleapis/gapic-generator) - Google
