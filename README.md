@@ -15,3 +15,4 @@
 - [guardrail](https://guardrail.dev/)
 - [openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 - [autorest](https://github.com/Azure/autorest)
+- [gnostic](https://github.com/googleapis/gnostic)
