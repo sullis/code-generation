@@ -10,6 +10,9 @@
 - [Code generation with Scalameta](https://www.youtube.com/watch?v=ONlBglP8H3Y) - Devon Stewart at ScalaMatsuri 2017
 - [Introduction to code generation with Scalameta](https://www.youtube.com/watch?v=l88-ljjtLO0) ([slides](https://www.michaelpollmeier.com/presentations/2017-04-22-scalameta-scaladays/#/))- Michael Pollmeier at ScalaDays Chicago 2017
 
+# Articles
+- [codegen: OpenAPI and gRPC](https://medium.com/apis-and-digital-transformation/openapi-and-grpc-side-by-side-b6afb08f75ed)
+
 # REST API code generation
 - [ApiBuilder](https://www.apibuilder.io/)
 - [guardrail](https://guardrail.dev/)
