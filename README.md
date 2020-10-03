@@ -9,6 +9,7 @@
 - [Generating Kotlin Code](https://www.youtube.com/watch?v=_obNBSldffw) - Alec Strong and Jake Wharton at KotlinConf 2017
 - [Code generation with Scalameta](https://www.youtube.com/watch?v=ONlBglP8H3Y) - Devon Stewart at ScalaMatsuri 2017
 - [Introduction to code generation with Scalameta](https://www.youtube.com/watch?v=l88-ljjtLO0) ([slides](https://www.michaelpollmeier.com/presentations/2017-04-22-scalameta-scaladays/#/))- Michael Pollmeier at ScalaDays Chicago 2017
+- [Code generation with annotation processors](https://www.slideshare.net/deors/javaone-2017-con3282-code-generation-with-annotation-processors-state-of-the-art-in-java-9) - JavaOne 2017
 
 # Articles
 - [codegen: OpenAPI and gRPC](https://medium.com/apis-and-digital-transformation/openapi-and-grpc-side-by-side-b6afb08f75ed)
