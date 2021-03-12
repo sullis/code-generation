@@ -22,6 +22,9 @@
 - [gnostic](https://github.com/googleapis/gnostic) - Google
 - [gapic-generator](https://github.com/googleapis/gapic-generator) - Google
 
+# GRPC code generation
+- [wire](https://github.com/square/wire)
+
 # Helper libraries
 - [javapoet](https://github.com/square/javapoet)
 - [kotlinpoet](https://github.com/square/kotlinpoet)
