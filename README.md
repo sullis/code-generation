@@ -21,3 +21,7 @@
 - [autorest](https://github.com/Azure/autorest) - Microsoft
 - [gnostic](https://github.com/googleapis/gnostic) - Google
 - [gapic-generator](https://github.com/googleapis/gapic-generator) - Google
+
+# Helper libraries
+- [javapoet](https://github.com/square/javapoet)
+- [kotlinpoet](https://github.com/square/kotlinpoet)
