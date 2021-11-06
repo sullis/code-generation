@@ -14,6 +14,7 @@
 
 # Articles
 - [codegen: OpenAPI and gRPC](https://medium.com/apis-and-digital-transformation/openapi-and-grpc-side-by-side-b6afb08f75ed)
+- [Moshi's Kotlin code gen](https://www.zacsweers.dev/exploring-moshis-kotlin-code-gen/)
 
 # REST API code generation
 - [ApiBuilder](https://www.apibuilder.io/)
